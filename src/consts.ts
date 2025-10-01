@@ -3,7 +3,7 @@ import type { IconMap, SocialLink, Site } from '@/types'
 export const SITE: Site = {
   title: 'a garden of whimsy',
   description:
-    'what interests me today? or, a garden of whimsy :).',
+    'a garden of whimsy :).',
   href: 'https://astro-erudite.vercel.app',
   author: 'dhruv',
   locale: 'en-US',
@@ -36,7 +36,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
     label: 'LinkedIn',
   },
   {
-    href: 'mailto:jason@enscribe.dev',
+    href: 'mailto:iliteratekit@gmail.com',
     label: 'Email',
   },
   {
