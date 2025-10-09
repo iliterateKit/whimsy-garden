@@ -23,6 +23,7 @@
   p {
     @apply text-pretty;
   }
+  
 }
 
 @layer components {

@@ -4,7 +4,7 @@ export const SITE: Site = {
   title: 'a garden of whimsy',
   description:
     'a garden of whimsy :).',
-  href: 'https://astro-erudite.vercel.app',
+  href: 'whimsy.garden',
   author: 'dhruv',
   locale: 'en-US',
   featuredPostCount: 3,
