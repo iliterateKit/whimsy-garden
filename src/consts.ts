@@ -7,7 +7,7 @@ export const SITE: Site = {
   href: 'https://whimsy.garden',
   author: 'dhruv',
   locale: 'en-US',
-  featuredPostCount: 3,
+  featuredPostCount: 5,
   postsPerPage: 5,
 }
 
