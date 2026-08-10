@@ -1,7 +1,7 @@
 import type { IconMap, SocialLink, Site } from '@/types'
 
 export const SITE: Site = {
-  title: 'a garden of whimsy',
+  title: 'kit\'s cabinet of curiosities',
   description:
     'a garden of whimsy :).',
   href: 'https://whimsy.garden',
@@ -31,10 +31,6 @@ export const NAV_LINKS: SocialLink[] = [
 ]
 
 export const SOCIAL_LINKS: SocialLink[] = [
-  {
-    href: 'https://www.linkedin.com/in/dhruvkulkarni/',
-    label: 'LinkedIn',
-  },
   {
     href: 'mailto:iliteratekit@gmail.com',
     label: 'Email',
