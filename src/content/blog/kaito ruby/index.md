@@ -149,5 +149,7 @@ As soon as Ruby hangs up the phone she starts to hum and sing along to the tune,
 I started writing this post weeks ago and hit a writing dry spell. I’ve finished it up as best as I could, but it’s a new month and my voice from then is gone. There are things missing from here, of course, but if you want to know more just reach out and ask me about it. 
 
 That being said, is Kaitō Ruby the best movie in the world? No, probably not, and you’d be hard pressed to make a solid argument for that. Hell, most of the people I was watching the movie with were bored and thought it was poorly paced. But that didn’t stop me from thoroughly enjoying it. I need more movies like this, that tell a story slowly and tell it well.
+---
+I watched this movie initially because of its title song, Kaitō Ruby, which is also the title of this post. You can listen to it as a solo by Kyoko Koizumi while watching the end credits featuring cute bloopers of all the actors [here](https://www.youtube.com/watch?v=wzhBfzHtTYA), or listen to the album recording, which is a duet, [here](https://www.youtube.com/watch?v=wzhBfzHtTYA). 
 
 [^1]: The essay can be found [here](https://www.youtube.com/watch?v=hI_YPRPebPY). It is in Portugese by Claquete de Papel, and I love its perspective on the movie! Please don’t let YouTube autodub it, their voice is so pretty and energetic.
